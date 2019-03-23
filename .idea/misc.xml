@@ -6,7 +6,7 @@
     </configurations>
   </component>
   <component name="IdProvider" IDEtalkID="A55A593A22C0005DB4D3DC2B2E5B6EEA" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
